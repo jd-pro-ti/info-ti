@@ -1,0 +1,11 @@
+{
+  "name": "TI + Innovación Digital | UTOM",
+  "short_name": "TI UTOM",
+  "description": "Landing informativa de la Ingeniería en Tecnologías de la Información e Innovación Digital.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f6f0",
+  "theme_color": "#123c32",
+  "lang": "es-MX",
+  "icons": [{ "src": "/media/logo-utom.png", "sizes": "any", "type": "image/png", "purpose": "any maskable" }]
+}
